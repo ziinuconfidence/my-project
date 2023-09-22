@@ -6,32 +6,30 @@ body {
 nav {
     background-color: navy;
     width: 100%;
-    height: 15vw;
-    padding: 4vw; 
-    padding-top: 0.1vw;
+    height: 8vw;
+    padding: 1vw; 
     color: white; 
-    font-size: 4vw;
-   line-height: 1vw;
-   position: fixed;
-   text-shadow: 2px 5px 5px  black;
+    font-size: 2vw;
+   line-height: 0.2vw;
+   text-shadow: 1px 3px 3px  black;
    background-image: url('Image/backgrounds.jpeg');
    background-repeat: no-repeat;
    background-size: cover;
  
     }
 .size {
-    font-size: 2vw;
+    font-size: 1vw;
     font-style: italic;
     color: rgb(35, 160, 201);
-    margin-left: 10px;}
+    margin-left: 1vw;}
 
 .logo {
-    width:3%;
+    width:2%;
     background-color: white;
-    border-radius: 0.5vw;
+    border-radius: 0.2vw;
     padding: 0.5vw;
-    margin-left: 35vw;
-    margin-top: 2vw;
+    margin-left: 60vw;
+    margin-top: 1vw;
 }
 
 
@@ -40,69 +38,67 @@ nav {
 /*form*/
 
 .cont2 {
+    padding: 10vw;
+    font-size: 1.5vw;
   
-    width: 100%;
-    padding: 8vw;
-    padding-left: 9vw;
-    padding-top: 30vw;
-    font-size: 3vw;
 }
 
 
 input {
-    width: 90%;
+    width: 100%;
     padding: 1vw;
     background-color: rgb(153, 207, 252);
     border: none;
     color: rgb(17, 6, 102);
-    font-size: 3vw;
-    margin-bottom: 4vw;
+    font-size: 1.5vw;
+    margin-bottom: 2vw;
 }
 
 .form-select {
-        width: 25%;
+        width: 18%;
         padding: 1vw;
         color: rgb(0, 0, 10);
        border: none;
        background-color: rgb(153, 207, 252);
-       font-size: 3vw;
-       margin-bottom: 4vw
+       font-size: 1.5vw;
+       height: 5;
+       margin-bottom: 2vw
     }
 
 
     .phn {
-        width: 63.4%;
+        width: 78.6%;
         padding: 1vw;
         background-color: rgb(153, 207, 252);
         border: none;
         color: rgb(17, 6, 102);
-        font-size: 3vw;
-        margin-bottom: 4vw
+        font-size: 1.5vw;
+        margin-bottom: 2vw
     }
 
     .checkbox {
-        width: 8%;
+        width: 4%;
         color: rgb(0, 0, 10);
        border: none;
        background-color: rgb(153, 207, 252);
-       font-size: 3vw;
-       margin-bottom:4vw
+       font-size: 1.5vw;
+       margin-bottom:2vw
     }
        
        
 .Tech {
-        width: 90%;
+        width: 100%;
         padding: 1vw;
         color: rgb(0, 0, 10);
        border: none;
        background-color: rgb(153, 207, 252);
-       font-size: 3vw;
-       margin-bottom: 3vw
+       font-size: 1.5vw;
+       margin-bottom: 2vw
     }
 
     textarea {
-        width: 90%;
-        height: 20vw;
+        width: 100%;
+        height: 15vw;
         padding: 1vw;
         color: rgb(0, 0, 10);
        border: none;
@@ -114,17 +110,17 @@ input {
     .cont1{
         background-color: rgb(10, 12, 67);
         width: 100%;
-        height: 15vw;
-        padding: 8vw; 
+        height: 8vw;
+        padding: 1vw; 
+        padding-top: 3vw;
         color: rgb(255, 255, 255); 
-        font-size: 3vw;
+        font-size: 1vw;
         text-align: center;
 
     }
 
     .icon {
-        width: 4vw;
-        margin-right: 2vw;
+        width: 2vw;
         border-radius: 0.5vw;
         }
 
